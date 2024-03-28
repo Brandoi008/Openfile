@@ -1,0 +1,7 @@
+This is the first line of text.
+Here's another line with a number: 42
+And a final line with a mix: String and 3.14
+
+Here are some additional lines:
+Line 4 with another number: 100
+Line 5 with a floating-point value: 2.718
